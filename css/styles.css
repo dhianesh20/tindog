@@ -1,0 +1,101 @@
+#title {
+    background-color: darkgray;
+}
+
+.button-d {
+    margin: 30px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-head {
+    text-align: center;
+}
+
+.container-1 {
+    text-align: center;
+}
+
+.dog-lab {
+    align-items: center;
+    border-radius: 10%;
+    width: 5%;
+}
+
+#footer {
+    text-align: center;
+}
+
+.h1 {
+    font-style: "Montserrat-Black";
+    size: "3rem";
+    line-height: 1.5;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+p {
+    color: darkgray;
+}
+
+#features {
+    background-color: white;
+    position: relative;
+    padding: 7% 15%;
+}
+
+.container-fluid {
+    padding: 5% 15% 5% 15%;
+}
+
+.image-dog {
+    transform: rotate(35deg);
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 200px;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0
+}
+
+#testimonials {
+    text-align: center;
+    background-color: coral;
+}
+
+#press {
+    text-align: center;
+    background-color: coral;
+    padding: 5%;
+}
+
+#cta {
+    padding: 80px;
+    color: white;
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+.press-logo {
+    width: 15rem;
+}
+
+@media(max-width: 1028px) {
+    .h1 {
+        text-align: center;
+    }
+    .image-dog {
+        position: static;
+        transform: rotate(0);
+        margin: 10px;
+    }
+}
